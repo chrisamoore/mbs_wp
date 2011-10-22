@@ -1,0 +1,33 @@
+	/* === DB credentials	
+		DB   : localhost 
+		table: wp_mbs
+		user : root
+		pw   : root
+	===*/
+	/*=== WP admin
+		user : cmoore
+		pw   : p@d3rg01dMBS
+		email: cm@studioconover.com
+	===*/
+	
+/*=== MBS WP todo ===*/
+	Convert existing site to Wordpress
+		Make Nav Dynamic
+		make Category pages generate Images + modals
+		create Page templates
+			affliates = style 
+			about = style 
+			contact = style 
+			
+			for categories 
+			for products 
+			for home 
+			
+			affiliates (repurpose Links?)
+			for mfrs lists
+		integrate Twilio 
+		integrate Gmaps 
+		
+/*=== Add CONTENT
+	descriptions to categories
+	

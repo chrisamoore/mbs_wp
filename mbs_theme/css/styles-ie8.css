@@ -1,0 +1,11 @@
+body, p, span     { font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#2E2723; }
+address           { font-style: normal;}
+                  
+h1                { font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; font-size:21px; line-height:32px; font-weight:bold; }
+h2                { font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; font-size:21px; line-height:auto; font-weight:bold; padding-bottom:16px;}
+h3                { font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; font-size:18px; line-height:auto; font-weight:bold; }
+
+ul li                         { font-weight:bold; }
+ul li                         { font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; font-size:14px; line-height:34px; font-weight:bold; }
+ul li ul li                   { font-size:12px; line-height:24px; font-weight:normal; white-space: nowrap; padding-left:0; }
+ul li ul li ul li ul li       { font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; font-style: italic; }
